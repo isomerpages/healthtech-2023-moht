@@ -4,7 +4,7 @@ title: Isomer Site
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: Digital Local Connect
+notification: ""
 sections:
   - hero:
       title: Digital Local Connect @ Boon Lay
@@ -14,8 +14,25 @@ sections:
       dropdown:
         title: How can I assist you today?
         options: []
+  - infopic:
+      title: Support & Services
+      description: Infopic description
+      button: Find out more
+      url: /supportandservices
+  - infopic:
+      title: Training & Guides
+      button: Find out more
+      url: /trainingguides
+      alt: Image alt text
+  - infopic:
+      title: Grassroots Leaders & Volunteers
+      description: Infopic description
+      button: Button Text
+      alt: Image alt text
+  - infobar:
+      title: FAQs
+      description: Infobar description
+      button: Button Text
   - resources:
-      title: Resources Section Title
-      subtitle: Resources Section Subtitle
       button: Resources Button Name
 ---
