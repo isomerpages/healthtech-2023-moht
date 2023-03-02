@@ -10,19 +10,10 @@ sections:
       title: Digital Local Connect @ Boon Lay
       subtitle: Your pocket guide to Mental Health & related service providers,
         training partners and resources in your neighbourhood
-      background: /images/boonlay.jpeg
-      button: Contact Us
-      url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+      background: /images/Untitled.png
+      dropdown:
+        title: How can I assist you today?
+        options: []
   - infobar:
       title: Infobar title
       subtitle: Subtitle
