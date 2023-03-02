@@ -30,6 +30,7 @@ sections:
       description: Infopic description
       button: Button Text
       alt: Image alt text
+      image: /images/Five Districts.png
   - infobar:
       title: FAQs
       description: Infobar description
