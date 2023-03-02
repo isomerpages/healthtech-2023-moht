@@ -2,6 +2,6 @@ collections:
   support-and-services:
     output: true
     order:
-      - Seniors.md
       - Children & Youth.md
       - Adult.md
+      - Seniors.md
