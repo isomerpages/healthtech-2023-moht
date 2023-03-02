@@ -2,6 +2,7 @@ collections:
   support-and-services:
     output: true
     order:
+      - Children & Youth.md
       - Adult.md
       - folder-page.md
       - example-subfolder/.keep
