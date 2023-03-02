@@ -19,6 +19,7 @@ sections:
       description: Infopic description
       button: Find out more
       url: /supportandservices
+      image: /images/Home Banner.png
   - infopic:
       title: Training & Guides
       button: Find out more
@@ -33,6 +34,4 @@ sections:
       title: FAQs
       description: Infobar description
       button: Button Text
-  - resources:
-      button: Resources Button Name
 ---
