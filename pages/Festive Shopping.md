@@ -6,4 +6,3 @@ description: ""
 1. AIC Giveaways
 2. HPB T-shirts
 
-![]()
