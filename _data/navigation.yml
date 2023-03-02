@@ -2,11 +2,12 @@ logo: /images/isomer-logo.svg
 links:
   - title: Home
     url: /Home
-  - title: Support And Services
-    collection: support-and-services
   - title: Training & Guides
     collection: training-and-guides
   - title: FAQs
     url: /faqs
   - title: Feedback
     url: /feedback
+  - title: Support and Services
+    url: /supportservices
+    sublinks: []
