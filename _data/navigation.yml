@@ -1,8 +1,13 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Home
+    url: /Home
   - title: Support And Services
     collection: support-and-services
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
+  - title: FAQs
+    url: /faqs
+  - title: Feedback
+    url: /feedback
