@@ -1,5 +1,5 @@
 collections:
-  my-fruits:
+  support-and-services:
     output: true
     order:
       - folder-page.md
