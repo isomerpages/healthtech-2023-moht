@@ -1,0 +1,4 @@
+collections:
+  training-and-guides:
+    output: true
+    order: []
