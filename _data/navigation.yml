@@ -4,9 +4,8 @@ links:
     url: /Home
   - title: Support And Services
     collection: support-and-services
-  - title: Menu Title
-    url: /permalink
-    sublinks: []
+  - title: Training & Guides
+    collection: training-and-guides
   - title: FAQs
     url: /faqs
   - title: Feedback
