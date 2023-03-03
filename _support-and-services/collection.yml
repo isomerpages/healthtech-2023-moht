@@ -2,6 +2,7 @@ collections:
   support-and-services:
     output: true
     order:
+      - Disabilities Support.md
       - Caregiving Support.md
       - Dementia Support.md
       - Disabilities Support/.keep
