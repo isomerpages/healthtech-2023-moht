@@ -18,12 +18,13 @@ sections:
       title: Support & Services
       button: Find out more
       url: /supportandservices
-      image: /images/Home Banner.png
+      image: /images/Training.png
   - infopic:
       title: Training & Guides
       button: Find out more
       url: /trainingguides
       alt: Image alt text
+      image: /images/Services.png
   - infopic:
       title: Grassroots Leaders & Volunteers
       description: Infopic description
