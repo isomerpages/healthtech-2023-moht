@@ -4,8 +4,7 @@ permalink: /support-and-services/caregiving/
 description: ""
 ---
 <h3>Five Key Areas of Support</h3>
-
-*   Care navigation, financial support, workplace support, caregiver respite options, and caregiver empowerment and training which are in the development by MOH.
+Care navigation, financial support, workplace support, caregiver respite options, and caregiver empowerment and training which are in the development by MOH.
 
 [Click here for more information on Caregiver Support Plan ](https://www.moh.gov.sg/caregiver-support)
 
