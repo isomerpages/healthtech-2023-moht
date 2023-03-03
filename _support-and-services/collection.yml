@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Caregiving Support.md
-      - Caregiving Support/.keep
       - Dementia Support.md
       - Disabilities Support/.keep
       - Disabilities Support/Caregiving.md
