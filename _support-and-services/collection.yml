@@ -4,10 +4,10 @@ collections:
     order:
       - Disabilities/Caregiving.md
       - Disabilities/.keep
-      - Children & Youth/.keep
-      - Children & Youth/Emotional Support.md
-      - Children & Youth/Financial.md
-      - Children & Youth/GP Care.md
-      - Children & Youth/Disabilities.md
+      - Emotional Support/.keep
+      - Emotional Support/Emotional Support.md
+      - Emotional Support/Financial.md
+      - Emotional Support/GP Care.md
+      - Emotional Support/Disabilities.md
       - Seniors.md
       - Beyond Boon Lay/.keep
