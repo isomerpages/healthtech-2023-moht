@@ -4,8 +4,8 @@ collections:
     order:
       - Caregiving Support/.keep
       - Dementia Support.md
-      - Disabilities/.keep
-      - Disabilities/Caregiving.md
+      - Disabilities Support/.keep
+      - Disabilities Support/Caregiving.md
       - Emotional Support/.keep
       - Emotional Support/Emotional Support.md
       - Emotional Support/Financial.md
