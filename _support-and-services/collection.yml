@@ -2,8 +2,8 @@ collections:
   support-and-services:
     output: true
     order:
-      - Adult/Caregiving.md
-      - Adult/.keep
+      - Disabilities/Caregiving.md
+      - Disabilities/.keep
       - Children & Youth/.keep
       - Children & Youth/Emotional Support.md
       - Children & Youth/Financial.md
