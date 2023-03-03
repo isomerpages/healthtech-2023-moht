@@ -18,7 +18,7 @@ sections:
       title: Support & Services
       button: Find out more
       url: /supportandservices
-      image: /images/Training.png
+      image: /images/Support Network.png
   - infopic:
       title: Training & Guides
       button: Find out more
