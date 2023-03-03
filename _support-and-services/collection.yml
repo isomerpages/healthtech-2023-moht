@@ -2,10 +2,10 @@ collections:
   support-and-services:
     output: true
     order:
-      - Emotional Support.md
       - Caregiving Support.md
       - Dementia Support.md
       - Disabilities Support.md
+      - Emotional Support.md
       - Emotional Support/.keep
       - Emotional Support/Emotional Support.md
       - Emotional Support/Financial.md
