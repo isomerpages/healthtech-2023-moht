@@ -2,6 +2,7 @@ collections:
   support-and-services:
     output: true
     order:
+      - Adult/Adult.md
       - Adult/.keep
       - Children & Youth/.keep
       - Children & Youth/Emotional Support.md
