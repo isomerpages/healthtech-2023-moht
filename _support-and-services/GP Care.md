@@ -4,7 +4,7 @@ permalink: /support-and-services/gpcare/
 description: ""
 ---
 <h3>GPs serving your distinct</h3>
-<iframe src="https://www.google.com/maps/d/embed?mid=1rUQJfhuhWAL8Rs7bDoON11i7eLvcPYv2&ehbc=2E312F" width="750" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1rUQJfhuhWAL8Rs7bDoON11i7eLvcPYv2&ehbc=2E312F" width="800" height="480"></iframe>
 
 ---
 
