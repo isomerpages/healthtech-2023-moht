@@ -1,7 +1,5 @@
 logo: /images/MOHT.png
 links:
-  - title: Home
-    url: /Home
   - title: Support and Services
     collection: support-and-services
   - title: Training & Guides
