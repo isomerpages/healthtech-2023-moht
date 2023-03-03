@@ -2,6 +2,7 @@ collections:
   support-and-services:
     output: true
     order:
+      - Caregiving/.keep
       - Financial Support/.keep
       - GP Care/.keep
       - Disabilities/Caregiving.md
