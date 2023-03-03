@@ -16,7 +16,6 @@ sections:
         options: []
   - infopic:
       title: Support & Services
-      description: Infopic description
       button: Find out more
       url: /supportandservices
       image: /images/Home Banner.png
@@ -31,9 +30,8 @@ sections:
       button: Button Text
       alt: Image alt text
       image: /images/Five Districts.png
-  - infobar:
-      title: FAQs
-      description: Infobar description
-      button: Button Text
+  - resources:
+      title: Resources
+      subtitle: Latest Updates
+      button: See More
 ---
-
