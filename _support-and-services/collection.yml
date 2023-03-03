@@ -2,7 +2,6 @@ collections:
   support-and-services:
     output: true
     order:
-      - GP Care.md
       - Caregiving Support.md
       - Dementia Support.md
       - Disabilities Support.md
@@ -10,4 +9,5 @@ collections:
       - Family Support.md
       - Financial Support.md
       - Food Support.md
+      - GP Care.md
       - Beyond Boon Lay/.keep
