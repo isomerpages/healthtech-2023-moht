@@ -2,6 +2,7 @@ collections:
   support-and-services:
     output: true
     order:
+      - Children & Youth/Disabilities.md
       - Children & Youth/.keep
       - Beyond Boon Lay/.keep
       - Adult.md
