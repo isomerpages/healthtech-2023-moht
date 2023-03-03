@@ -2,6 +2,7 @@ collections:
   support-and-services:
     output: true
     order:
+      - Children & Youth/Emotional Support.md
       - Children & Youth/Financial.md
       - Children & Youth/GP Care.md
       - Children & Youth/Disabilities.md
