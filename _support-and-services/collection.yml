@@ -2,17 +2,17 @@ collections:
   support-and-services:
     output: true
     order:
-      - Dementia Support.md
-      - Family Support.md
-      - Food.md
       - Caregiving/.keep
-      - Financial Support/.keep
-      - GP Care/.keep
-      - Disabilities/Caregiving.md
+      - Dementia Support.md
       - Disabilities/.keep
+      - Disabilities/Caregiving.md
       - Emotional Support/.keep
       - Emotional Support/Emotional Support.md
       - Emotional Support/Financial.md
       - Emotional Support/GP Care.md
       - Emotional Support/Disabilities.md
+      - Family Support.md
+      - Financial Support/.keep
+      - Food.md
+      - GP Care/.keep
       - Beyond Boon Lay/.keep
