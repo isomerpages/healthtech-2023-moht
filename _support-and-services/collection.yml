@@ -2,11 +2,11 @@ collections:
   support-and-services:
     output: true
     order:
+      - Children & Youth/.keep
       - Children & Youth/Emotional Support.md
       - Children & Youth/Financial.md
       - Children & Youth/GP Care.md
       - Children & Youth/Disabilities.md
-      - Children & Youth/.keep
-      - Beyond Boon Lay/.keep
       - Adult.md
       - Seniors.md
+      - Beyond Boon Lay/.keep
