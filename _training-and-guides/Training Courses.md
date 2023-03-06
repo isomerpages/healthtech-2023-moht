@@ -3,19 +3,19 @@ title: Training Courses
 permalink: /training-and-guides/trainingcourses/
 description: ""
 ---
-<h3>Available Training Courses</h3>
+### Available Training Courses</h3>
 Below is a list of available training courses offered by various organisations.<br>Do contact the organization directly to request information and quotation.
 
 <i>Approved courses under the Caregivers Training Grant from 1 Apr 2022 to 31 Mar 2023)</i><br>
-[For more information, please click on this link](https://www.google.com/url?q=https%3A%2F%2Fwww.aic.sg%2Fcaregiving%2Fchoose-training-course&sa=D&sntz=1&usg=AOvVaw2nZpgHH9rOXyQU5rGFKM5A)
+[Click on this link for more information](https://www.google.com/url?q=https%3A%2F%2Fwww.aic.sg%2Fcaregiving%2Fchoose-training-course&sa=D&sntz=1&usg=AOvVaw2nZpgHH9rOXyQU5rGFKM5A)
 
 ---
 
-<h4>Caregiving</h4>
+#### Caregiving
 <details>
  <summary>Caregiving Skills Training</summary>
 	
-- [Introduction to the Caregiving Journey and Resources (2.5-hour)](https://www.aic.sg/caregiving/caregiver-training-course/Documents/SV_Introduction%20to%20Caregiving%20Journey%20and%20Resources.pdf)
+- [Introduction to the Caregiving Journey and Resources, 2.5-hours](https://www.aic.sg/caregiving/caregiver-training-course/Documents/SV_Introduction%20to%20Caregiving%20Journey%20and%20Resources.pdf)
 
 - [Practical Skills for Caregivers to Improve Well-being (2.5-hour)](https://www.aic.sg/caregiving/caregiver-training-course/Documents/SV_Practical%20Skills%20for%20Caregivers%20to%20Improve%20Well-being.pdf) 
 	
@@ -68,6 +68,4 @@ Below is a list of available training courses offered by various organisations.<
 <b>Essentials of Dementia</b><br>
 
 | [FDW Core Module - Essentials of Dementia Care (7-hour) - Dementia Singapore Limited](https://www.aic.sg/caregiving/caregiver-training-course/Documents/DS_FDW%20Core%20Module-Essentials%20Of%20Dementia%20Care.pdf) | [Understanding Dementia and Tips to Prevent Dementia (3-hour) - Montessori For Dementia Care](https://www.aic.sg/caregiving/caregiver-training-course/Documents/MO_UNDERSTANDING%20DEMENTIA%20AND%20TIPS%20TO%20PREVENT%20DEMENTIA.pdf) | 
-| -------- | -------- | 
-
-
+| -------- | -------- |
