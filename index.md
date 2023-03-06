@@ -19,12 +19,24 @@ sections:
       button: Find out more
       url: /supportandservices
       image: /images/Services.png
+      description: Find specific service providers in your neighbourhood based on your
+        resident needs
   - infopic:
       title: Training & Guides
       button: Find out more
       url: /trainingguides
       alt: Image alt text
       image: /images/Services.png
+      description: Access to training courses and self-help materials to build
+        knowledge and skillsets amongst residents and volunteers
+  - infopic:
+      title: Support Network
+      description: Connect with like-minded Grassroot Leaders and volunteers to
+        discuss and share experiences on supporting mental health cases
+      button: Connect now
+      url: "-"
+      image: /images/Support Network.png
+      alt: Image alt text
   - infopic:
       title: Grassroots Leaders & Volunteers
       description: Infopic description
