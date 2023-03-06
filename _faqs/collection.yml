@@ -2,4 +2,5 @@ collections:
   faqs:
     output: true
     order:
+      - Training & Guides.md
       - Services & Support.md
