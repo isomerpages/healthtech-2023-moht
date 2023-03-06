@@ -2,8 +2,8 @@ collections:
   training-and-guides:
     output: true
     order:
-      - Training/Elective Modules.md
-      - Training/Elearning.md
-      - Training/Courses.md
       - Training/.keep
+      - Training/Courses.md
+      - Training/Elearning.md
+      - Training/Elective Modules.md
       - Guides.md
