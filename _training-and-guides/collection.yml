@@ -2,7 +2,7 @@ collections:
   training-and-guides:
     output: true
     order:
-      - Guides/Guides.md
+      - Guides/Supporting Individuals with Mental Health Issues.md
       - Guides/.keep
       - Training/.keep
       - Training/Courses.md
