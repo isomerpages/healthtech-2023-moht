@@ -4,7 +4,7 @@ permalink: /training-and-guides/mentalhealthsupport/
 description: ""
 third_nav_title: Guides
 ---
-### Available Elective Modules</h3>
+### Available Guides to Support Individuals with Mental Health Issues </h3>
 Below is a list of available guides offered by various organisations.<br>Do contact the organization directly to request information and quotation.
 
 <div class="horizontal-scroll"><table width="100%">
