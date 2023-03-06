@@ -43,8 +43,4 @@ sections:
       button: Button Text
       alt: Image alt text
       image: /images/Five Districts.png
-  - resources:
-      title: Resources
-      subtitle: Latest Updates
-      button: See More
 ---
