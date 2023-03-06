@@ -2,6 +2,8 @@ collections:
   training-and-guides:
     output: true
     order:
+      - Guides/Supporting Individuals or families suffering from family
+        violence.md
       - Guides/Supporting Individuals with Mental Health Issues.md
       - Guides/.keep
       - Training/.keep
