@@ -2,12 +2,12 @@ collections:
   training-and-guides:
     output: true
     order:
-      - Guides/Supporting Volunteers.md
-      - Guides/Supporting Caregivers.md
+      - Guides/.keep
+      - Guides/Supporting Individuals with Mental Health Issues.md
       - Guides/Supporting Individuals or families suffering from family
         violence.md
-      - Guides/Supporting Individuals with Mental Health Issues.md
-      - Guides/.keep
+      - Guides/Supporting Volunteers.md
+      - Guides/Supporting Caregivers.md
       - Training/.keep
       - Training/Courses.md
       - Training/Elearning.md
