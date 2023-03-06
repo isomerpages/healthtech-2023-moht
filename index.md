@@ -17,7 +17,7 @@ sections:
   - infopic:
       title: Support & Services
       button: Find out more
-      url: /support-and-services
+      url: /support-and-services/caregiving/
       image: /images/Services.png
       description: Find specific service providers in your neighbourhood based on your
         resident needs
