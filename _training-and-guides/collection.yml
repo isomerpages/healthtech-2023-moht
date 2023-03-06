@@ -2,5 +2,6 @@ collections:
   training-and-guides:
     output: true
     order:
+      - Training/Training Courses.md
       - Training/.keep
       - Guides.md
