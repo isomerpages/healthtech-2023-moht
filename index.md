@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Digital Local Connect @ Boon Lay
+      title: Digital Local Connect
       subtitle: Your pocket guide to Mental Health & related service providers,
         training partners and resources in your neighbourhood
       background: /images/Home Banner.png
