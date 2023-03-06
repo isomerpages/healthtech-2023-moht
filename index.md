@@ -34,7 +34,7 @@ sections:
       description: Connect with like-minded Grassroot Leaders and volunteers to
         discuss and share experiences on supporting mental health cases
       button: Connect now
-      url: "-"
+      url: /network
       image: /images/Support Network.png
       alt: Image alt text
   - infopic:
