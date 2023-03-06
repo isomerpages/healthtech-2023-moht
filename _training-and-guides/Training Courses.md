@@ -15,7 +15,8 @@ Below is a list of available training courses offered by various organisations.<
 <details>
  <summary>Caregiving Skills Training</summary>
 	
-- [Introduction to the Caregiving Journey and Resources, 2.5-hours](https://www.aic.sg/caregiving/caregiver-training-course/Documents/SV_Introduction%20to%20Caregiving%20Journey%20and%20Resources.pdf)
+[Introduction to the Caregiving Journey and Resources, 2.5-hours](https://www.aic.sg/caregiving/caregiver-training-course/Documents/SV_Introduction%20to%20Caregiving%20Journey%20and%20Resources.pdf)
+
 
 - [Practical Skills for Caregivers to Improve Well-being (2.5-hour)](https://www.aic.sg/caregiving/caregiver-training-course/Documents/SV_Practical%20Skills%20for%20Caregivers%20to%20Improve%20Well-being.pdf) 
 	
