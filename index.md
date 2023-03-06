@@ -24,7 +24,7 @@ sections:
   - infopic:
       title: Training & Guides
       button: Find out more
-      url: /trainingguides
+      url: training-and-guides/trainingcourses/
       alt: Image alt text
       image: /images/Services.png
       description: Access to training courses and self-help materials to build
