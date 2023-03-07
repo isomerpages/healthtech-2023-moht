@@ -39,12 +39,12 @@ Below is a list of available training courses offered by various organisations.<
     <td>Caring for Persons with Dementia</td>
     <td><details open="">
 				
-<a href="https://www.aic.sg/caregiving/caregiver-training-course/Documents/PN_A%20Caregiver%E2%80%99s%20Guide%20to%20Dementia.pdf">A Caregiver’s Guide to Dementia (8.5-hour) - The Salvation Army Peacehaven </a>
+<a href="https://www.aic.sg/caregiving/caregiver-training-course/Documents/PN_A%20Caregiver%E2%80%99s%20Guide%20to%20Dementia.pdf">A Caregiver’s Guide to Dementia (8.5-hour) - The Salvation Army Peacehaven </a><br><br>
 			
-<a href="https://www.aic.sg/caregiving/caregiver-training-course/Documents/AS_Caring%20for%20Persons%20with%20Dementia%20(Classroom%20Based).pdf">Caring for Persons with Dementia (4-hour) - Assure Safety Pte Ltd</a>
+<a href="https://www.aic.sg/caregiving/caregiver-training-course/Documents/AS_Caring%20for%20Persons%20with%20Dementia%20(Classroom%20Based).pdf">Caring for Persons with Dementia (4-hour) - Assure Safety Pte Ltd</a><br><br>
 			
 				
-<a href="https://www.aic.sg/caregiving/caregiver-training-course/Documents/CA_Dementia%20Care%20Managing%20Behaviours%20through%20Meaningful%20Engagement.pdf">Caregiver Training – Dementia Care: Managing Behaviours through Meaningful Engagement (3-hour) - CaregiverAsia Pte Ltd</a>
+<a href="https://www.aic.sg/caregiving/caregiver-training-course/Documents/CA_Dementia%20Care%20Managing%20Behaviours%20through%20Meaningful%20Engagement.pdf">Caregiver Training – Dementia Care: Managing Behaviours through Meaningful Engagement (3-hour) - CaregiverAsia Pte Ltd</a><br><br>
 				
 	</details></td>
   </tr>
