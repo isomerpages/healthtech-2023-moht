@@ -4,10 +4,8 @@ permalink: /faqs/training/
 description: ""
 ---
 ### FAQ on Training & Guides
-For Community Mental Health Volunteers 
+<b>For Community Mental Health Volunteers </b><br>
 
-----
-<br>
 <details><summary>What are our responsibilities?</summary>
 <p>
 <ul>
