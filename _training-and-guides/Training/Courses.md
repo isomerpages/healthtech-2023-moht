@@ -36,7 +36,8 @@ Below is a list of available training courses offered by various organisations.<
 </ul>
 				
 </td>
-  </tr>
+</tr>
+		
   <tr>
     <td>Caregiving</td>
     <td>Caring for Persons with Dementia</td>
