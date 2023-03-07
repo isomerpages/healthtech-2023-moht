@@ -19,17 +19,16 @@ Below is a list of available guides offered by various organisations.<br>Do cont
     <td>NCSS</td>
     <td>Volunteer Management</td>
     <td>
-			
-[Volunteer Management Toolkit 2.0](https://file.go.gov.sg/volmgttoolkitver2.pdf)
-			
+<a href="https://file.go.gov.sg/volmgttoolkitver2.pdf">Volunteer Management Toolkit 2.0</a>		
+
 </td>
   </tr>
   <tr>
     <td>NCSS</td>
     <td>Resource Kit for Youths</td>
     <td>
-			
-[Resource Kit Developed by Youths for Youths](https://www.ncss.gov.sg/docs/default-source/ncss-publications-doc/pdfdocument/ncss-btl-plug-and-play-toolkit-for-youths-(latest).pdf)
+
+<a href="https://www.ncss.gov.sg/docs/default-source/ncss-publications-doc/pdfdocument/ncss-btl-plug-and-play-toolkit-for-youths-(latest).pdf">Resource Kit Developed by Youths for Youths</a>		
 			
 </td>
   </tr>
@@ -38,8 +37,7 @@ Below is a list of available guides offered by various organisations.<br>Do cont
     <td>MindLine</td>
     <td>Self-Assessment and Self-Help Resources</td>
     <td>
-			
-[mindline.sg](https://www.mindline.sg/)
+<a href="https://www.mindline.sg/">mindline.sg</a>		
 			
 </td>
   </tr>		
