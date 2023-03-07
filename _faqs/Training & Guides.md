@@ -6,9 +6,9 @@ description: ""
 ### FAQ on Training & Guides
 For Community Mental Health Volunteers 
 
-----<br>
-
-<details open> <summary>What are our responsibilities?</summary>
+----
+<br>
+<details><summary>What are our responsibilities?</summary>
 <p>
 	
 * Recognise the needs of person with mental health issues
@@ -24,7 +24,7 @@ For Community Mental Health Volunteers
 </p>
 </details><br>
 				
-<details open><summary>What am I required to know or do?</summary>
+<details><summary>What am I required to know or do?</summary>
 <p>
 	
 * Understand the Impact of Mental Health
