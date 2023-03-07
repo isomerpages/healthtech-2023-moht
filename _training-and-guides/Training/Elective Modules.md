@@ -4,7 +4,7 @@ permalink: /training-and-guides/Training/electivemodules/
 description: ""
 third_nav_title: Training
 ---
-### Available Elective Modules</h3>
+### Available Elective Modules
 Below is a list of available elective modules offered by various organisations.<br>Do contact the organization directly to request information and quotation.
 
 <div class="horizontal-scroll"><table width="100%">
