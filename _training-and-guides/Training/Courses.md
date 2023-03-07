@@ -55,4 +55,6 @@ Below is a list of available training courses offered by various organisations.<
 	</details></td>
   </tr>
 
-</tbody></table></div>
+</tbody>
+</table>
+</div>
