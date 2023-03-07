@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Digital Local Connect
+title: Digital Local Connect @ Boon Lay
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
@@ -52,3 +52,4 @@ sections:
       subtitle: Latest Update
       button: See more
 ---
+
