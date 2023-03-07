@@ -19,8 +19,7 @@ Below is a list of available guides offered by various organisations.<br>Do cont
     <td>Enabling Guide</td>
     <td>Disabilities</td>
     <td>
-			
-[Personalized your guide here](https://www.enablingguide.sg/my-guide)
+<a href="https://www.enablingguide.sg/my-guide">Personalized your guide here</a>			
 			
 </td>
   </tr>
@@ -28,8 +27,8 @@ Below is a list of available guides offered by various organisations.<br>Do cont
     <td>NCSS</td>
     <td>Disabilities</td>
     <td>
-			
-[Understanding Person with Disabilities](https://www.ncss.gov.sg/docs/default-source/ncss-publications-doc/pdfdocument/understanding-persons-with-disabilities-removing-barriers-pdf.pdf)
+<a href="https://www.ncss.gov.sg/docs/default-source/ncss-publications-doc/pdfdocument/understanding-persons-with-disabilities-removing-barriers-pdf.pdf">Understanding Person with Disabilities</a>		
+
 			
 </td>
   </tr>
@@ -38,8 +37,8 @@ Below is a list of available guides offered by various organisations.<br>Do cont
     <td>Dementia Hub</td>
     <td>Depression</td>
     <td>
-			
-[Could you be depressed?](https://beta.mountelizabeth.com.sg/healthplus/article/dealing-with-depression)
+
+<a href="https://beta.mountelizabeth.com.sg/healthplus/article/dealing-with-depression">Could you be depressed?</a>			
 			
 </td>
   </tr>		
@@ -48,8 +47,8 @@ Below is a list of available guides offered by various organisations.<br>Do cont
     <td>Health Xchange</td>
     <td>Mental Health</td>
     <td>
-			
-[How to support loved ones with anxiety or depression?](https://www.healthxchange.sg/wellness/mental-health/managing-anxiety-depression-creating-positive-environment)
+
+<a href="https://www.healthxchange.sg/wellness/mental-health/managing-anxiety-depression-creating-positive-environment">How to support loved ones with anxiety or depression?</a>						
 			
 </td>
   </tr>		
@@ -58,8 +57,7 @@ Below is a list of available guides offered by various organisations.<br>Do cont
     <td>Made for Families</td>
     <td>Parenting</td>
     <td>
-			
-[Made for Families](https://www.madeforfamilies.gov.sg/home)
+<a href="https://www.madeforfamilies.gov.sg/home">Made for Families</a>					
 			
 </td>
   </tr>				
