@@ -29,13 +29,13 @@ Below is a list of available e-learning offered by various organisations.<br>Do 
     <td>Mental Health</td>
     <td><details open="">
 
-<a href="https://ccmhdcomms.github.io/mhafoundation1/">Mental Health Awareness Foundation 01: Signs and Symptoms</a>
+<a href="https://ccmhdcomms.github.io/mhafoundation1/">Mental Health Awareness Foundation 01: Signs and Symptoms</a><br><br>
 
-<a href="https://ccmhdcomms.github.io/mhafoundation2/">Mental Health Awareness Foundation 02: Communication with Persons with Mental Illness</a>
+<a href="https://ccmhdcomms.github.io/mhafoundation2/">Mental Health Awareness Foundation 02: Communication with Persons with Mental Illness</a><br><br>
 
-<a href="https://ccmhdcomms.github.io/mhalevel2ss20/">Mental Health Awareness Basic 01: Signs and Symptoms</a>
+<a href="https://ccmhdcomms.github.io/mhalevel2ss20/">Mental Health Awareness Basic 01: Signs and Symptoms</a><br><br>
 
-<a href="https://ccmhdcomms.github.io/mhalevel2comms20">Mental Health Awareness Basic 02: Communication with Persons with Mental Condition</a>
+<a href="https://ccmhdcomms.github.io/mhalevel2comms20">Mental Health Awareness Basic 02: Communication with Persons with Mental Condition</a><br><br>
 			
 </details></td>
   </tr>
