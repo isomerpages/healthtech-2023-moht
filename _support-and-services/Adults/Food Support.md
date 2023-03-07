@@ -4,8 +4,7 @@ permalink: /support-and-services/foodsupport/
 description: ""
 third_nav_title: Adults
 ---
-
-<h3>For Food Support</h3>
+### For Food Support
 
 [Food Connect Directory](https://foodconnect.gov.sg/directory/)
 
@@ -21,7 +20,3 @@ Opening Hours:
 *   Monday - Friday : 9am - 6pm, last registration at 5pm, closed for lunch from 1pm-2pm
     
 *   Closed on Saturdays, Sundays and Public Holidays
-    
-
-  
-
