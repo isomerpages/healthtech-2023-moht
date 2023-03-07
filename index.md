@@ -52,4 +52,3 @@ sections:
       subtitle: Latest Update
       button: See more
 ---
-
