@@ -19,8 +19,8 @@ Below is a list of available elective modules offered by various organisations.<
     <td>Red Cross Academy</td>
     <td>Psychological First Aid</td>
     <td>
-			
-[Psychological First Aid](https://www.redcross.sg/get-trained/psychological-first-aid.html)
+
+<a href="https://www.redcross.sg/get-trained/psychological-first-aid.html">Psychological First Aid</a>
 			
 </td>
   </tr>
@@ -28,8 +28,7 @@ Below is a list of available elective modules offered by various organisations.<
     <td>Thye Hua Kwan Moral Charities</td>
     <td>Positive Parenting Programme (Triple P)</td>
     <td>
-			
-[Positive Parenting Programme](https://www.thkmc.org.sg/services_detail/thk-centre-for-family-harmony-circuit/)
+<a href="https://www.thkmc.org.sg/services_detail/thk-centre-for-family-harmony-circuit/">Positive Parenting Programme</a>			
 			
 </td>
   </tr>
@@ -38,9 +37,8 @@ Below is a list of available elective modules offered by various organisations.<
     <td>NTUC Learning Hub</td>
     <td>Peer to Peer Mental Well-being Support</td>
     <td>
-			
-[WSQ-certified Training In Peer-to-peer Mental Well-being Support @ Work](https://www.ntuclearninghub.com/en-gb/-/course/wsq-certified-training-in-peer-to-peer-mental-well-being-support-work)
-			
+<a href="https://www.ntuclearninghub.com/en-gb/-/course/wsq-certified-training-in-peer-to-peer-mental-well-being-support-work">WSQ-certified Training In Peer-to-peer Mental Well-being Support @ Work</a>		
+
 </td>
   </tr>		
 		
@@ -48,8 +46,7 @@ Below is a list of available elective modules offered by various organisations.<
     <td>Sanitarians of Singapore</td>
     <td>Suicide</td>
     <td>
-			
-[Sound of Listening](https://www.sos.org.sg/training/the-sound-of-listening)
+	<a href="https://www.sos.org.sg/training/the-sound-of-listening">Sound of Listening</a>		
 			
 </td>
   </tr>		
