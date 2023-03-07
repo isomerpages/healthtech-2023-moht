@@ -51,7 +51,7 @@ Below is a list of available training courses offered by various organisations.<
 				
 <li><a href="https://www.aic.sg/caregiving/caregiver-training-course/Documents/CA_Dementia%20Care%20Managing%20Behaviours%20through%20Meaningful%20Engagement.pdf">Caregiver Training – Dementia Care: Managing Behaviours through Meaningful Engagement (3-hour) - CaregiverAsia Pte Ltd</a></li>
 				
-<ul>			
+</ul>			
 	</details></td>
   </tr>
 
