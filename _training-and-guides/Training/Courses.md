@@ -4,7 +4,7 @@ permalink: /training-and-guides/courses/
 description: ""
 third_nav_title: Training
 ---
-### Available Training Courses</h3>
+### Available Training Courses
 Below is a list of available training courses offered by various organisations.<br>Do contact the organization directly to request information and quotation.
 
 <i>Approved courses under the Caregivers Training Grant from 1 Apr 2022 to 31 Mar 2023)</i><br>
