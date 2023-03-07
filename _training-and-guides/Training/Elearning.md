@@ -4,7 +4,7 @@ permalink: /training-and-guides/Training/elearning/
 description: ""
 third_nav_title: Training
 ---
-### Available E-learning </h3>
+### Available E-learning
 Below is a list of available e-learning offered by various organisations.<br>Do contact the organization directly to request information and quotation.
 
 <div class="horizontal-scroll"><table width="100%">
