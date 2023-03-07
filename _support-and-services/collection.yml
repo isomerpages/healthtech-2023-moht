@@ -2,6 +2,7 @@ collections:
   support-and-services:
     output: true
     order:
+      - Adults/Food Support.md
       - Adults/Caregiving Support.md
       - Adults/.keep
       - Children & Youths/Emotional Support.md
