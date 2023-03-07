@@ -23,15 +23,17 @@ Below is a list of available training courses offered by various organisations.<
     <td>Caregiving</td>
     <td>Caregiving Skills Training</td>
     <td>
-			
-* [Introduction to the Caregiving Journey and Resources, 2.5-hour](https://www.aic.sg/caregiving/caregiver-training-course/Documents/SV_Introduction%20to%20Caregiving%20Journey%20and%20Resources.pdf)<br>
-			
-* [Practical Skills for Caregivers to Improve Well-being (2.5-hour)](https://www.aic.sg/caregiving/caregiver-training-course/Documents/SV_Practical%20Skills%20for%20Caregivers%20to%20Improve%20Well-being.pdf)
-			
-* [Practicing Empathy In Caregiving (2.5-hour)](https://www.aic.sg/caregiving/caregiver-training-course/Documents/SV_Practising%20Empathy%20In%20Caregiving.pdf)			
+			<ul>
 
-* [Stress Management Strategies for Caregivers (2.5-hour)](https://www.aic.sg/caregiving/caregiver-training-course/Documents/SV_Stress%20Management%20Strategies%20for%20Caregivers.pdf)
+
+<li><a href="https://www.aic.sg/caregiving/caregiver-training-course/Documents/SV_Introduction%20to%20Caregiving%20Journey%20and%20Resources.pdf">Introduction to the Caregiving Journey and Resources, 2.5-hour</a></li>
+
+<li><a href="https://www.aic.sg/caregiving/caregiver-training-course/Documents/SV_Practical%20Skills%20for%20Caregivers%20to%20Improve%20Well-being.pdf">Practical Skills for Caregivers to Improve Well-being (2.5-hour)</a></li>
 			
+<li><a href="https://www.aic.sg/caregiving/caregiver-training-course/Documents/SV_Practising%20Empathy%20In%20Caregiving.pdf">Practicing Empathy In Caregiving (2.5-hour</a></li>
+			
+<li><a href="https://www.aic.sg/caregiving/caregiver-training-course/Documents/SV_Stress%20Management%20Strategies%20for%20Caregivers.pdf">Stress Management Strategies for Caregivers (2.5-hour)</a></li>
+
 </td>
   </tr>
   <tr>
@@ -49,6 +51,3 @@ Below is a list of available training courses offered by various organisations.<
   </tr>
 
 </tbody></table></div>
-			
-		
-
