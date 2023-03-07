@@ -5,6 +5,6 @@ links:
   - title: Training & Guides
     collection: training-and-guides
   - title: FAQs
-    url: /faqs/training/
+    collection: faqs
   - title: Feedback
     url: /feedback
