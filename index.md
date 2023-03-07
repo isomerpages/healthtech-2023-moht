@@ -13,7 +13,11 @@ sections:
       background: /images/Home Banner.png
       dropdown:
         title: How can I assist you today?
-        options: []
+        options:
+          - title: Location of GPs
+            url: /support-and-services/Adults/gpcare/
+          - title: Where to get financial support
+            url: /support-and-services/Seniors/financial/
   - infopic:
       title: Support & Services
       button: Find out more
