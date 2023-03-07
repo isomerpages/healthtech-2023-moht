@@ -19,8 +19,8 @@ Below is a list of available guides offered by various organisations.<br>Do cont
     <td>Beyond The Label</td>
     <td>Anxiety</td>
     <td>
-			
-[Understanding Anxiety (Video)](https://www.youtube.com/watch?v=eIUEWnExzt8&ab_channel=NationalCouncilofSocialService)
+
+<a href="https://www.youtube.com/watch?v=eIUEWnExzt8&ab_channel=NationalCouncilofSocialService">Understanding Anxiety (Video)</a>
 			
 </td>
   </tr>
@@ -28,8 +28,8 @@ Below is a list of available guides offered by various organisations.<br>Do cont
     <td>Health Hub</td>
     <td>Anxiety</td>
     <td>
-			
-[Anxiety or just Anxious?](https://www.healthhub.sg/a-z/diseases-and-conditions/705/anxiety-disorder-or-just-anxious)
+	
+<a href="https://www.healthhub.sg/a-z/diseases-and-conditions/705/anxiety-disorder-or-just-anxious">Anxiety or just Anxious?</a>
 			
 </td>
   </tr>
@@ -38,8 +38,7 @@ Below is a list of available guides offered by various organisations.<br>Do cont
     <td>Health Plus</td>
     <td>Depression</td>
     <td>
-			
-[Could you be depressed?](https://beta.mountelizabeth.com.sg/healthplus/article/dealing-with-depression)
+<a href="https://beta.mountelizabeth.com.sg/healthplus/article/dealing-with-depression">Could you be depressed?</a>
 			
 </td>
   </tr>		
@@ -48,9 +47,9 @@ Below is a list of available guides offered by various organisations.<br>Do cont
     <td>Health Hub</td>
     <td>Stress</td>
     <td>
-			
-[Stress Management: Be a Master of Stress](https://www.healthhub.sg/live-healthy/1182/be-a-master-of-stress)
-			
+
+<a href="https://www.healthhub.sg/live-healthy/1182/be-a-master-of-stress">Stress Management: Be a Master of Stress</a>
+								
 </td>
   </tr>		
 		
@@ -58,9 +57,9 @@ Below is a list of available guides offered by various organisations.<br>Do cont
     <td>Institute of Mental Health</td>
     <td>Coping Strategies</td>
     <td>
-			
-[Coping Strategies](https://www.imh.com.sg/CHAT/Documents/Downloads/Coping%20Strategies.pdf)
-			
+
+<a href="https://www.imh.com.sg/CHAT/Documents/Downloads/Coping%20Strategies.pdf">Coping Strategies</a>
+											
 </td>
   </tr>				
 </tbody></table></div>
