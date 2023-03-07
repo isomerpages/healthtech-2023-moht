@@ -7,4 +7,9 @@ description: ""
 
 ![](/images/Telegram%20QR.png)
 
-<center><b><a href="https://t.me/dlc_test">Or, click here to join</b></center>
+<center>
+<b>
+<a href="https://t.me/dlc_test">Or, click here to join
+	
+</b>
+</center>
