@@ -20,9 +20,9 @@ Below is a list of available guides offered by various organisations.<br>Do cont
     <td>Ministry of Social and Family Development (MSF)</td>
     <td>Family Violence</td>
     <td>
-			
-[A step-by-step guide on what to do if you experience or witness family violence](https://www.msf.gov.sg/policies/Strong-and-Stable-Families/Supporting-Families/Family-Violence/Pages/default.aspx)
-			
+
+<a href="https://www.msf.gov.sg/policies/Strong-and-Stable-Families/Supporting-Families/Family-Violence/Pages/default.aspx">A step-by-step guide on what to do if you experience or witness family violence</a>
+
 </td>
   </tr>
   
