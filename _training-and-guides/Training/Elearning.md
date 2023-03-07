@@ -20,7 +20,7 @@ Below is a list of available e-learning offered by various organisations.<br>Do 
     <td>Dementia</td>
     <td>
 			
-* [Dementia Awareness: Foundation Level](https://ccmhdcomms.github.io/dementiaawareness20/)
+<a href="https://ccmhdcomms.github.io/dementiaawareness20/">Dementia Awareness: Foundation Level</a>
 			
 </td>
   </tr>
@@ -28,19 +28,16 @@ Below is a list of available e-learning offered by various organisations.<br>Do 
     <td>Agency for Integrated Care (AIC)</td>
     <td>Mental Health</td>
     <td><details open="">
+
+<a href="https://ccmhdcomms.github.io/mhafoundation1/">Mental Health Awareness Foundation 01: Signs and Symptoms</a>
+
+<a href="https://ccmhdcomms.github.io/mhafoundation2/">Mental Health Awareness Foundation 02: Communication with Persons with Mental Illness</a>
+
+<a href="https://ccmhdcomms.github.io/mhalevel2ss20/">Mental Health Awareness Basic 01: Signs and Symptoms</a>
+
+<a href="https://ccmhdcomms.github.io/mhalevel2comms20">Mental Health Awareness Basic 02: Communication with Persons with Mental Condition</a>
 			
-* [Mental Health Awareness Foundation 01: Signs and Symptoms](https://ccmhdcomms.github.io/mhafoundation1/)
-			
-* [Mental Health Awareness Foundation 02: Communication with Persons with Mental Illness](https://ccmhdcomms.github.io/mhafoundation2/)
-			
-* [Mental Health Awareness Basic 01: Signs and Symptoms](https://ccmhdcomms.github.io/mhalevel2ss20/)
-			
-* [Mental Health Awareness Basic 02: Communication with Persons with Mental Condition](https://ccmhdcomms.github.io/mhalevel2comms20/)
-			
-	</details></td>
+</details></td>
   </tr>
 
 </tbody></table></div>
-			
-		
-
