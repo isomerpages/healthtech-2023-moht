@@ -4,8 +4,7 @@ permalink: /support-and-services/emotionalsupport/
 description: ""
 third_nav_title: Children & Youths
 ---
-
-<h3>For Basic Emotional Support</h3>
+### For Basic Emotional Support
 <b>Viriya Community Services</b><br>
 646 Jurong West Street 61, Singapore 640646<br>
 Tel: 6795 1008<br>
