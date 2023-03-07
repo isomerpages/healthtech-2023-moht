@@ -6,9 +6,10 @@ description: ""
 ### FAQ on Services & Support
 
 
-----<br>
+----
+<br>
 
-<details open> <summary>What are our responsibilities?</summary>
+<details> <summary>What is the Integrated Community Mental Health Eco-system?</summary>
 <p>
 	
 * Recognise the needs of person with mental health issues
@@ -24,15 +25,26 @@ description: ""
 </p>
 </details><br>
 				
-<details open><summary>What am I required to know or do?</summary>
+<details><summary>What is the Referral Pathway in Boon Lay?</summary>
 <p>
 	
-* Understand the Impact of Mental Health
-* Understand the Recovery Oriented Approach
-* Identification and Referral
-* Practice Self Care	
+</p>
+</details><br>
 
-[Click here to learn more](https://www.aic.sg/partners/Documents/CMH%20Resources/Mental%20Health%20Competency%20Framework.pdf)
+<details><summary>How to identify residents who may need mental health support (ABCS)</summary>
+<p>
 	
 </p>
+</details><br>
+
+<details><summary>What is the difference between Psychologist, Psychiatrist, Counsellor and Social Worker?</summary>
+<p>
+
+<details><summary>What is Person-Centered Approach</summary>
+<p>
+	
+</p>
+</details><br>
+
+
 </details><br>
