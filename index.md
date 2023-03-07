@@ -18,7 +18,7 @@ sections:
       title: Support & Services
       button: Find out more
       url: /support-and-services/caregiving/
-      image: /images/Support and Services.jpg
+      image: /images/Support.png
       description: Find specific service providers in your neighbourhood based on your
         resident needs
   - infopic:
@@ -26,7 +26,7 @@ sections:
       button: Find out more
       url: training-and-guides/trainingcourses/
       alt: Image alt text
-      image: /images/Services.png
+      image: /images/Support.png
       description: Access to training courses and self-help materials to build
         knowledge and skillsets amongst residents and volunteers
   - infopic:
