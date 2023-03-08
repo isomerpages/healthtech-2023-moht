@@ -20,11 +20,12 @@ sections:
             url: /support-and-services/Seniors/financial/
   - infopic:
       title: Support & Services
+      description: Find specific service providers in your neighbourhood based on your
+        resident needs
       button: Find out more
       url: /support-and-services/caregiving/
       image: /images/Support.png
-      description: Find specific service providers in your neighbourhood based on your
-        resident needs
+      alt: Image alt text
   - infopic:
       title: Training & Guides
       button: Find out more
