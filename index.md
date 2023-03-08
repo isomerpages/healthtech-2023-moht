@@ -44,10 +44,10 @@ sections:
       alt: Image alt text
   - infopic:
       title: Grassroots Leaders & Volunteers
-      description: Infopic description
-      button: Button Text
+      button: Find out more
       alt: Image alt text
       image: /images/Five Districts.png
+      url: "-"
   - resources:
       title: Resources
       subtitle: Latest Update
