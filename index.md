@@ -14,7 +14,7 @@ sections:
       dropdown:
         title: How can I assist you today?
         options:
-          - title: Location of GPs
+          - title: "Location of GPs with Mental Health Services "
             url: /support-and-services/Adults/gpcare/
           - title: Where to get financial support
             url: /support-and-services/Seniors/financial/
