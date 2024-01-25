@@ -1,0 +1,24 @@
+collections:
+  support-and-services:
+    output: true
+    order:
+      - Children & Youths/.keep
+      - Children & Youths/Emotional Support.md
+      - Children & Youths/Financial Support.md
+      - Children & Youths/GP Care.md
+      - Children & Youths/Disabilities Support.md
+      - Adults/.keep
+      - Adults/Caregiving Support.md
+      - Adults/Disabilities Support.md
+      - Adults/Emotional Support.md
+      - Adults/Family Support.md
+      - Adults/Financial Support.md
+      - Adults/Food Support.md
+      - Adults/GP Care.md
+      - Seniors/.keep
+      - Seniors/Dementia Support.md
+      - Seniors/Emotional Support.md
+      - Seniors/Financial Support.md
+      - Seniors/Food Support.md
+      - Seniors/GP Care.md
+      - Beyond Boon Lay/.keep
